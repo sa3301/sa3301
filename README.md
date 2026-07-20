@@ -1,5 +1,1 @@
-I'm a Data Scientist Intern at Blu-H.
-
-Currently building bulk geospatial data ingest into Microsoft's Planetary Computer Pro, using Azure Container Apps Jobs, STAC cataloguing, Terraform IaC, and a ~980K-file backfill.
-
-**Stack:** Azure, Python, Geospatial Data Analysis, ETL Pipelines, Jupyter Notebook
+### Building a high-throughput geospatial ingestion pipeline to migrate a 980K-file backfill into the Microsoft Planetary Computer.
